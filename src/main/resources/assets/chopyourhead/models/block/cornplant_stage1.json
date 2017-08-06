@@ -1,0 +1,6 @@
+{
+  "parent": "block/crop",
+  "textures": {
+    "all": "chopyourhead:blocks/mithril_ore"
+  }
+}

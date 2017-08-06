@@ -1,0 +1,28 @@
+//CREATIVETAB
+itemGroup.tabChopYourHead=ChopYourHead
+
+//INGOTS
+item.adamantit_ingot.name=Adamantit Ingot
+item.mithril_ingot.name= Mithril Ingot
+
+//DUSTS
+item.mithril_dust.name=Mithril Dust
+item.adamantit_dust.name=Adamantit Dust
+
+//ORE
+tile.mithrilore.name=Mithril Ore
+tile.adamantitore.name=Adamantit Ore
+
+
+//ARMOR
+item.adamantium_helmet.name=Adamantit Helmet
+item.adamantium_chestplate.name=Adamantit Chestplate
+item.adamantium_boots.name=Adamantit Boots
+item.adamantium_leggings.name=Adamantit Leggings
+item.mithril_helmet.name=Mithril Helmet
+item.mithril_chestplate.name=Mithril Chestplate
+item.mithril_boots.name=Mithril Boots
+item.mithril_leggings.name=Mithril Leggings
+
+//
+tile.cornplant.name=Corn Plant

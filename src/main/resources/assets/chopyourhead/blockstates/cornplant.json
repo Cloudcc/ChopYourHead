@@ -1,0 +1,7 @@
+
+{
+  "variants": {
+    "age=0": { "model": "chopyourhead:cornplant_stage0"},
+    "age=1": { "model": "chopyourhead:cornplant_stage1"}
+  }
+}
